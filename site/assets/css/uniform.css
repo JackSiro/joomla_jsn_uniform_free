@@ -1,0 +1,26 @@
+/**
+* @author JoomlaShine.com Team
+* @copyright JoomlaShine.com
+* @link joomlashine.com
+* @package
+* @version $Id:
+* @license GNU/GPL v2 http://www.gnu.org/licenses/gpl-2.0.html
+*/
+
+/* editor plugin */
+.jsn-uniform-plg-editor-container .setting ul {
+    list-style: none outside none;
+}
+
+.jsn-uniform-plg-editor-container .setting label {
+    display: block;
+    float: left;
+    margin: 5px 0;
+    max-width: 100px;
+    min-width: 80px;
+    padding: 0 5px 0 0;
+}
+
+.jsn-uniform-plg-editor-container .insert .form-actions {
+	text-align: center;
+}
