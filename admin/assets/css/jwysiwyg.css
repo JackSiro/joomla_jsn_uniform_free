@@ -1,0 +1,18 @@
+.wysiwyg-dialog-content form.wysiwyg input, .wysiwyg-dialog form.wysiwyg select{
+    width: 98%;
+}
+.ui-draggable .ui-dialog-titlebar{
+    background: #333;
+    border: 1px #111 solid;
+    color: white;
+    padding: 10px;
+    position: relative;
+}
+form.wysiwyg.ui-dialog-content.ui-widget-content{
+    padding: 5px;
+    margin: 5px;
+    border: 1px solid #ccc;
+}
+form.wysiwyg.ui-dialog-content.ui-widget-content input[type="text"]{
+    width: 96%;
+}
